@@ -17,7 +17,7 @@ openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -node
 ```
 python3 stage0_svr.py
 ```
-To send command you write direkt into the commands.txt
+To send commands you write direkt into the commands.txt
 ```
 echo "cmd /c tasklist" > commands.txt
 ```
