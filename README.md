@@ -10,18 +10,17 @@ Features:
 
 
 ## Server
+Clone the repository
 ```bash
-# Clone the repository
 git clone <repo_url>
 ```
-
+Generate SSL certificates (self-signed)
 ```bash
-# Generate SSL certificates (self-signed)
 openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
 ```
 
+Start the Stage-0 server
 ```bash
-# Start the Stage-0 server
 python3 stage0_svr.py
 ```
 
