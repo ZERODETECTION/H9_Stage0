@@ -1,11 +1,12 @@
-# H9_Stage0
+**H9_Stage0**
 
-A minimalistic stage0 c2 to fly under the radar. It is using https and will execute commands on the client-side.
+A minimalist stage-0 C2 designed to fly under the radar. It uses HTTPS and executes commands on the client-side.
 
-* https
-* random connect timer
-* runs in background
-* shellexecute
+Features:
+- HTTPS used
+- Random connection timer
+- Runs in the background
+- `ShellExecute` for command execution
 
 ## Server
 ```
