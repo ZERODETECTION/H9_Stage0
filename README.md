@@ -12,7 +12,7 @@ Features:
 ## Server
 Clone the repository
 ```bash
-git clone <repo_url>
+git clone https://github.com/ZERODETECTION/H9_Stage0.git
 ```
 Generate SSL certificates (self-signed)
 ```bash
