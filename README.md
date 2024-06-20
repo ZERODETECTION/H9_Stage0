@@ -31,7 +31,7 @@ echo "cmd /c calc" > commands.txt
 ```
 
 ## Client
-Open "x64 Native Tools Command Prompt for VS 2019" and run:
+To compile the client open a "x64 Native Tools Command Prompt for VS 2019" and run:
 
 ```bash
 compile.bat
