@@ -19,7 +19,7 @@ python3 stage0_svr.py
 ```
 To send commands you write direkt into the commands.txt
 ```
-echo "cmd /c tasklist" > commands.txt
+echo "cmd /c calc" > commands.txt
 ```
 
 ## Client
