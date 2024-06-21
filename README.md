@@ -1,4 +1,4 @@
-![Alt text](url-to-image)
+!logo]([url-to-image](https://github.com/ZERODETECTION/H9_Stage0/blob/main/logo_sm.png))
 
 
 **H9_Stage0**
