@@ -1,3 +1,6 @@
+![Alt text](url-to-image)
+
+
 **H9_Stage0**
 
 A minimalist stage-0 C2 designed to fly under the radar. It uses HTTPS and executes commands on the client-side.
